@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+locale: "en-US"
+title: Terms of Service and Privacy Policy
+github:
+  is_project_page: false
